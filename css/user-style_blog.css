@@ -1,0 +1,264 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+#ix6p {
+    background-color: #f1e3a4;
+}
+
+#i3m3ui {
+    font-size: 19px;
+    color: rgba(0,0,0,0.8);
+}
+
+#imb525 {
+    color: rgba(0,0,0,0.8);
+    font-weight: 700;
+    font-size: 20px;
+}
+
+#iavnxl {
+    font-weight: 700;
+    font-size: 20px;
+    color: rgba(0,0,0,0.8);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Roboto, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", "Microsoft Jhenghei", sans-serif;
+}
+
+#ix6p {
+    background-color: rgb(241, 227, 164);
+}
+
+.logo path {
+    pointer-events: none;
+    fill: none;
+    stroke-linecap: round;
+    stroke-width: 7;
+    stroke: rgb(255, 255, 255);
+}
+
+.wechat-group img {
+    max-width: 220px;
+    height: auto;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    width: 100%;
+}
+
+.welcome-img img {
+    width: 100%;
+}
+
+header {
+    background-color: rgb(255, 255, 255);
+}
+
+header .navbar-nav a.nav-link {
+    color: rgb(119, 119, 119);
+}
+
+header .navbar-nav a.nav-link:hover {
+    color: rgb(82, 139, 255);
+}
+
+header .navbar-nav .active a.nav-link {
+    color: rgb(68, 68, 68);
+}
+
+header .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+header.bg-dark .navbar-nav a.nav-link {
+    color: rgb(220, 220, 220);
+}
+
+header.bg-dark .navbar-nav a.nav-link:hover {
+    color: rgb(82, 139, 255);
+}
+
+header.bg-dark .navbar-nav .active a.nav-link {
+    color: rgb(255, 255, 255);
+}
+
+header.bg-dark .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#fff' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+header + header {
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: rgb(238, 238, 238);
+}
+
+.fdb-block .text-h1, .fdb-block h1 {
+    font-size: 1.75rem;
+    margin-bottom: 0.5em;
+    margin-top: 0.3em;
+    font-weight: 400;
+}
+
+.fdb-block .col-fill-left {
+    width: 50%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    z-index: 1;
+}
+
+a {
+    color: rgb(0, 123, 255);
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    background-color: transparent;
+}
+
+a:hover {
+    color: rgb(0, 86, 179);
+    text-decoration-line: underline;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
+.container.pt-12.pt-md-14.pb-14.pb-md-16 {
+    background-color: rgb(241, 227, 164);
+}
+
+.container.pt-14.pt-md-18.pb-7 {
+    background-color: rgb(241, 227, 164);
+}
+
+.container.py-14.pt-md-18.pb-md-16 {
+    background-color: rgb(241, 227, 164);
+}
+
+.container.py-14.py-md-18 {
+    background-color: rgb(241, 227, 164);
+}
+
+.row.gx-lg-8.gx-xl-12.gy-6.text-center {
+    background-color: rgb(241, 227, 164);
+}
+
+.htmlpage-row {
+    display: table;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    width: 100%;
+}
+
+.htmlpage-cell {
+    width: 8%;
+    display: table-cell;
+    height: 75px;
+}
+
+.c11213 {
+    display: none;
+}
+
+.promo-block-img.img-responsive {
+    width: 572.2000122070312px;
+}
+
+.promo-block {
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/5344/colcor.png');
+    background-repeat: repeat;
+    background-position: left top;
+    background-attachment: scroll;
+    background-size: auto;
+}
+
+.col-sm-6.sm-margin-b-60 {
+    color: rgba(0,0,0,0.8);
+}
+
+.container.content-lg {
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/5344/colcor.png');
+    background-repeat: repeat;
+    background-position: left top;
+    background-attachment: scroll;
+    background-size: auto;
+}
+
+.bg-color-sky-light {
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/user-upload-images/5344/colcor.png');
+    background-repeat: repeat;
+    background-position: left top;
+    background-attachment: scroll;
+    background-size: auto;
+    background-color: #f1e3a4;
+}
+
+.c15172 {
+    padding: 10px;
+}
+
+.c16762 {
+    padding: 10px;
+}
+
+.c16931 {
+    padding: 10px;
+}
+
+.c17073 {
+    font-size: 20px;
+    color: rgba(0,0,0,0.8);
+    font-weight: 700;
+}
+
+.c17182 {
+    font-size: 18px;
+    font-weight: 600;
+    font-family: "PingFang SC", sans-serif;
+    color: rgba(0,0,0,0.8);
+}
+
+.c17569 {
+    color: black;
+    width: 465px;
+    height: 261.5619938964844px;
+}
+
+.c17785 {
+    color: black;
+    width: 447.4000244140625px;
+    height: 253px;
+}
+
+@media (max-width: 768px) {
+    .htmlpage-cell {
+        width: 100%;
+        display: block;
+    }
+}

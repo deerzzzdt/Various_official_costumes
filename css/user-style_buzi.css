@@ -1,0 +1,289 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+#ix6p {
+    background-color: #f1e3a4;
+}
+
+#iy7nv {
+    font-size: 60px;
+    font-weight: 700;
+    color: rgba(0,0,0,0.63);
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Roboto, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", "Microsoft Jhenghei", sans-serif;
+}
+
+#ix6p {
+    background-color: rgb(241, 227, 164);
+}
+
+.logo path {
+    pointer-events: none;
+    fill: none;
+    stroke-linecap: round;
+    stroke-width: 7;
+    stroke: rgb(255, 255, 255);
+}
+
+.wechat-group img {
+    max-width: 220px;
+    height: auto;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    width: 100%;
+}
+
+.welcome-img img {
+    width: 100%;
+}
+
+header {
+    background-color: rgb(255, 255, 255);
+}
+
+header .navbar-nav a.nav-link {
+    color: rgb(119, 119, 119);
+}
+
+header .navbar-nav a.nav-link:hover {
+    color: rgb(82, 139, 255);
+}
+
+header .navbar-nav .active a.nav-link {
+    color: rgb(68, 68, 68);
+}
+
+header .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+header.bg-dark .navbar-nav a.nav-link {
+    color: rgb(220, 220, 220);
+}
+
+header.bg-dark .navbar-nav a.nav-link:hover {
+    color: rgb(82, 139, 255);
+}
+
+header.bg-dark .navbar-nav .active a.nav-link {
+    color: rgb(255, 255, 255);
+}
+
+header.bg-dark .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#fff' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+header + header {
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: rgb(238, 238, 238);
+}
+
+.fdb-block .text-h1, .fdb-block h1 {
+    font-size: 1.75rem;
+    margin-bottom: 0.5em;
+    margin-top: 0.3em;
+    font-weight: 400;
+}
+
+.fdb-block .col-fill-left {
+    width: 50%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    z-index: 1;
+}
+
+a {
+    color: rgb(0, 123, 255);
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    background-color: transparent;
+}
+
+a:hover {
+    color: rgb(0, 86, 179);
+    text-decoration-line: underline;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
+.container.pt-12.pt-md-14.pb-14.pb-md-16 {
+    background-color: rgb(241, 227, 164);
+}
+
+.container.pt-14.pt-md-18.pb-7 {
+    background-color: rgb(241, 227, 164);
+}
+
+.container.py-14.pt-md-18.pb-md-16 {
+    background-color: rgb(241, 227, 164);
+}
+
+.container.py-14.py-md-18 {
+    background-color: rgb(241, 227, 164);
+}
+
+.htmlpage-row {
+    display: table;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    width: 100%;
+}
+
+.htmlpage-cell {
+    width: 8%;
+    display: table-cell;
+    height: 75px;
+}
+
+.c25620 {
+    display: none;
+}
+
+.c27755 {
+    padding: 10px;
+    text-align: center;
+    color: #000000;
+}
+
+.c27866 {
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.c28362 {
+    font-size: 20px;
+    color: rgba(0,0,0,0.81);
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.c31663 {
+    color: black;
+    width: 316px;
+    height: 313.99999237060547px;
+}
+
+.c31696 {
+    padding: 10px;
+}
+
+.c31739 {
+    color: black;
+    width: 334.60003662109375px;
+    height: 318px;
+}
+
+.c31912 {
+    padding: 10px;
+}
+
+.c31989 {
+    color: black;
+    width: 334px;
+    height: 316px;
+}
+
+.c32162 {
+    padding: 10px;
+}
+
+.c32239 {
+    color: black;
+    width: 324px;
+    height: 308.3999938964844px;
+}
+
+.c32401 {
+    padding: 10px;
+}
+
+.c32444 {
+    color: black;
+    width: 323px;
+    height: 309.1999816894531px;
+}
+
+.c32617 {
+    padding: 10px;
+}
+
+.c32694 {
+    color: black;
+    width: 308.5999755859375px;
+    height: 309px;
+}
+
+.c32867 {
+    padding: 10px;
+}
+
+.c32944 {
+    color: black;
+    width: 330px;
+    height: 321.199951171875px;
+}
+
+.c33117 {
+    padding: 10px;
+}
+
+.c33194 {
+    color: black;
+    width: 365.79998779296875px;
+    height: 321px;
+}
+
+.c33379 {
+    padding: 10px;
+}
+
+.c33456 {
+    color: black;
+    width: 339.79998779296875px;
+    height: 327px;
+}
+
+.c33629 {
+    padding: 10px;
+}
+
+@media (max-width: 768px) {
+    .htmlpage-cell {
+        width: 100%;
+        display: block;
+    }
+}
